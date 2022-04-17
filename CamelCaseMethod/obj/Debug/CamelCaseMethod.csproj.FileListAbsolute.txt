@@ -1,0 +1,6 @@
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/bin/Debug/CamelCaseMethod.exe
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/bin/Debug/CamelCaseMethod.pdb
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/obj/Debug/CamelCaseMethod.csprojAssemblyReference.cache
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/obj/Debug/CamelCaseMethod.csproj.CoreCompileInputs.cache
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/obj/Debug/CamelCaseMethod.exe
+/home/ayshan/RiderProjects/CamelCaseMethod/CamelCaseMethod/obj/Debug/CamelCaseMethod.pdb
